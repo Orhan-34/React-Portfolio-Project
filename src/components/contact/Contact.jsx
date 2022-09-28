@@ -34,13 +34,13 @@ const Contact = () => {
             <GrInstagram className='contact__option-icon' />
             <h4>Instagram</h4>
             <h5>orhnozclk3437</h5>
-            <a href="http://Instagram.com/orhnozclk3437" target="_blank">Send a message</a>
+            <a href="http://Instagram.com/orhnozclk3437" target="_blank" rel="noreferrer">Send a message</a>
           </article>
           <article className="contact__option">
             <FaLinkedin className='contact__option-icon' />
             <h4>LinkedIn</h4>
             <h5>Orhan Özçelik</h5>
-            <a href="https://www.linkedin.com/in/orhan-ozcelik/" target="_blank">Send a message</a>
+            <a href="https://www.linkedin.com/in/orhan-ozcelik/" target="_blank" rel="noreferrer">Send a message</a>
           </article>
         </div>
         {/* END OF CONTACT OPTIONS*/}
